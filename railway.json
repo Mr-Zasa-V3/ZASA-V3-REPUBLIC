@@ -3,15 +3,15 @@
   "description": "Javascript WhatsApp bot made by MR ZASA",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "VISPER-MD&z8AQCKyY#y6A4J-x7Lm9bm3CDtlzAGPQAckWcxHeeS4MUb4kSWwk",
       "required": true
     },
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://i.ibb.co/0RyY4tYw/Worm-GPT-banner.jpg",
       "required": true
     },
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "TESTING ALIVE MESSAGE. . .",
       "required": true
     }
   },

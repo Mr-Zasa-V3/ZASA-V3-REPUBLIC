@@ -1,5 +1,5 @@
 {
-  "name": "MR ZASA V3",
+  "name": "mr_zasa_v3",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",

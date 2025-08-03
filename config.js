@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "VISPER-MD&z8AQCKyY#y6A4J-x7Lm9bm3CDtlzAGPQAckWcxHeeS4MUb4kSWwk",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/PvG1XQ1S"><img src="https://i.ibb.co/0RyY4tYw/Worm-GPT-banner.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/0RyY4tYw/Worm-GPT-banner.jpg",
 ALIVE_MSG: process.env.ALIVE_MSG || "TESTING ALIVE MESSAGE. . .",
 AUTOREAD_STATUS: process.env.AUTOREAD_STATUS,
 };

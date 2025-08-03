@@ -1,0 +1,21 @@
+{
+  "name": "MR ZASA V3",
+  "description": "Javascript WhatsApp bot made by MR ZASA",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+    },
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true
+    }
+  },
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
